@@ -50,7 +50,7 @@ This is a tool that suspends a programs *`threads`* which will effectively freez
 6. Create a PR ***pull request for the n00bs***
 
 ## License
-This project is licensed under the MIT License - See ![LICENSE](LICENSE)
+This project is licensed under the MIT License - See ![LICENSE](LICENSE.md)
 
 ## Acknowledgements
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - *I wouldn't get the idea otherwise tbh*
