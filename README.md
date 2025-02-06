@@ -1,4 +1,4 @@
-# ATX Library Time-limit bypass and suspension utliity tool
+# ATX Library Time-limit Bypass and Suspension Utliity Tool
 *You can suspend most programs with this utility!*
 
 ## Description
