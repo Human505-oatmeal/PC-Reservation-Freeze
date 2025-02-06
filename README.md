@@ -14,17 +14,20 @@ This is a tool that suspends a programs *`threads`* which will effectively freez
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Human505-oatmeal/PC-Reservation-Freeze.git```
+   git clone https://github.com/Human505-oatmeal/PC-Reservation-Freeze.git
+   ```
 2. Navigate to the project folder:
    ```bash
-   cd PC-Reservation-Freeze```
+   cd PC-Reservation-Freeze
+   ```
 3. Install the required dependencies:
   ```bash
-  pip3 install -r requirements.txt```
+  pip3 install -r requirements.txt
+```
 4. Run the application:
   ```bash
   python main.py
-  ```
+```
 
 ## Usage
 *The questionnaire will tell you everything you need to do, I made it idiot-proof!*
@@ -47,7 +50,7 @@ This is a tool that suspends a programs *`threads`* which will effectively freez
 6. Create a PR ***pull request for the n00bs***
 
 ## License
-This project is licensed under the MIT License - See ![LICENSE.md](LICENSE)
+This project is licensed under the MIT License - See ![LICENSE](LICENSE)
 
 ## Acknowledgements
 - [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer) - *I wouldn't get the idea otherwise tbh*
